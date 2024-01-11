@@ -1,6 +1,6 @@
-const { sum } = require("./sum.js");
+const { sum } = require("../src/sum.js");
 
-describe("sum()", () => {
+describe("lastIndexOf()", () => {
   test("can sum a list of numbers", () => {
     expect(sum([10, 20, 30])).toBe(60);
   });
