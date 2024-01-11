@@ -1,7 +1,6 @@
 # Vanilla 🍨
 
-VanillaJS is a collection of useful JS functions. Indeed it is implementing a number of native JS methods using vanilla JS. In this workshop, you will use the code provided in vanillaJS to create small refactors and learn how to resolve merge conflicts.
-This activity is designed to help you gain practical experience in dealing with merge conflicts in a collaborative coding environment. You'll be working in pairs, learning how to handle branching, refactoring, testing, and creating pull requests.
+VanillaJS is a collection of useful JS functions. Indeed it implements a number of very usefuil native JS methods using vanilla JavaScript. In this workshop, you will use the source code provided in vanillaJS to create small refactor branches and resolve merge conflicts. You'll be working in pairs, learning how to handle branching, refactoring, testing, and creating pull requests.
 
 ## Overview
 
